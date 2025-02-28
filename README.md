@@ -14,7 +14,7 @@ Source: [Curvance on Monad](https://monad.curvance.com/monad)
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jeje283u29/Monad-curvance-bot-auto.git
+   git clone https://github.com/sundaybase/Monad-curvance-bot-auto.git
    cd Monad-curvance-bot-auto
    ```
 
