@@ -1,6 +1,6 @@
 # Monad-curvance-bot-auto
 
-Monad Curvance Bot is an automated bot designed for executing transactions with Curvance on the Monad Testnet network in compliance with standardized operational procedures.
+Monad Curvance Bot is automated bot designed for executing transactions with Curvance on the Monad Testnet network in compliance with standardized operational procedures.
 
 Source: [Curvance on Monad](https://monad.curvance.com/monad)
 
